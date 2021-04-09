@@ -1,0 +1,1156 @@
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.deps.json
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.runtimeconfig.json
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.runtimeconfig.dev.json
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.Oracle.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlAnywhere.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlServer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Db2.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Firebird.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Hana.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.MySql.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Oracle.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Postgres.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Redshift.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlAnywhere.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SQLite.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServerCe.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlServerCe.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\linq2db.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MaxMind.Db.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MaxMind.GeoIP2.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.AzureKeyVault.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.AzureStorage.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.StackExchangeRedis.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.Edm.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.OData.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MiniProfiler.AspNetCore.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MiniProfiler.AspNetCore.Mvc.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MiniProfiler.Shared.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\RedLockNet.Abstractions.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\RedLockNet.SERedis.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Spatial.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\af\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ar\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\bg\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\bn-BD\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\da\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\el\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fa\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fi-FI\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr-BE\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\he\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\hr\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\hu\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\hy\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\id\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\lv\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ms-MY\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\mt\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nb\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nb-NO\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nl\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ro\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sk\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sl\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sr\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sr-Latn\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sv\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\uk\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\uz-Latn-UZ\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\vi\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-CN\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Humanizer.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\System.Spatial.resources.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Core.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Data.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Tests.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Tests.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Core.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Data.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.csprojAssemblyReference.cache
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.AssemblyInfoInputs.cache
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.AssemblyInfo.cs
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.csproj.CoreCompileInputs.cache
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.csproj.CopyComplete
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.dll
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.pdb
+D:\PROJECTS\nopClean\nopCommerce-release-4.30\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.genruntimeconfig.cache
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.deps.json
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.runtimeconfig.json
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.runtimeconfig.dev.json
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.Tests.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.Oracle.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlAnywhere.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlServer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Db2.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Firebird.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Hana.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.MySql.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Oracle.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Postgres.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Redshift.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlAnywhere.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SQLite.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServerCe.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlServerCe.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\linq2db.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MaxMind.Db.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MaxMind.GeoIP2.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.AzureKeyVault.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.AzureStorage.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.StackExchangeRedis.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.Edm.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.OData.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MiniProfiler.AspNetCore.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MiniProfiler.AspNetCore.Mvc.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MiniProfiler.Shared.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\RedLockNet.Abstractions.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\RedLockNet.SERedis.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Spatial.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\af\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ar\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\bg\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\bn-BD\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\da\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\el\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fa\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fi-FI\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr-BE\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\he\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\hr\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\hu\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\hy\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\id\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\lv\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ms-MY\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\mt\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nb\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nb-NO\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\nl\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ro\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sk\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sl\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sr\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sr-Latn\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\sv\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\uk\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\uz-Latn-UZ\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\vi\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-CN\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Humanizer.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\de\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\es\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\fr\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\it\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ja\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ko\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\ru\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hans\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\zh-Hant\System.Spatial.resources.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Core.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Data.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Tests.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Services.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Tests.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Core.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\bin\Debug\netcoreapp3.1\Nop.Data.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.csprojAssemblyReference.cache
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.AssemblyInfoInputs.cache
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.AssemblyInfo.cs
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.csproj.CoreCompileInputs.cache
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.csproj.CopyComplete
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.dll
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.pdb
+D:\PERSONAL PROJECTS\nopCommerce-release-4.30\ecommerce\nopCommerce-release-4.30\src\Tests\Nop.Services.Tests\obj\Debug\netcoreapp3.1\Nop.Services.Tests.genruntimeconfig.cache
